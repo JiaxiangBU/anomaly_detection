@@ -17,3 +17,4 @@ In this chapter, you'll learn how numerical and graphical summaries can be used 
 
 you'll learn to compare the detection performance of the algorithms in instances where labeled anomalies are available.
 
+<input type="checkbox" id="checkbox1" class="styled">意味着异常值剔除可以走这样的流程？

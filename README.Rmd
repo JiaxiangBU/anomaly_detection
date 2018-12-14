@@ -11,6 +11,15 @@ knitr::opts_chunk$set(
 )
 ```
 
+
+
+### 2018-12-15 02:58:47
+
+1. 完成 ch1
+1. 开始 ch2
+1. add ch1 slides
+1. 暂时加入 AnomalyDetection_func
+
 ### 2018-12-15 01:59:09
 
 1. add r proj and readme 
