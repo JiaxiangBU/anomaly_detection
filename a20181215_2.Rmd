@@ -1,0 +1,19 @@
+Anomaly Detection in R
+Alastair Rushworth
+
+947 Participants
+
+Are you concerned about inaccurate or suspicious records in your data, but not sure where to start?
+
+are crucial for detecting fraud and for protecting computer networks from malicious activity
+
+learn to use sophisticated anomaly scoring algorithms like the local outlier factor and **isolation forest**
+
+<input type="checkbox" id="checkbox1" class="styled">这个吴恩达之前教过，没找到
+
+In this chapter, you'll learn how numerical and graphical summaries can be used to informally assess whether data contain unusual points.
+
+<input type="checkbox" id="checkbox1" class="styled">这个可以让晓松做起来
+
+you'll learn to compare the detection performance of the algorithms in instances where labeled anomalies are available.
+
